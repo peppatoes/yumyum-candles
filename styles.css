@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+}
+body{
+    font-family: "Comic Sans";
+font-size: 40px;
+text-align: center;
+color: purple;
+}
+.flower{
+    width:50%;
+    border: solid 5px #ff758f;
+}
+.flower2{
+    width:45%;
+}
+
+.row {
+	display: flex;
+}
+
+.row img {
+	margin: 10px;
+}
+h6{
+   
+    border: 4px pink;
+}
+h6{
+border: solid 5px #ff758f;
+}
+
+.flower2{
+    width:50%;
+    border: solid 5px #ff758f;
+}
